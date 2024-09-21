@@ -1,0 +1,8 @@
+.reset{
+    background-color: red;
+}
+button{
+    background-color: rgb(24, 121, 41);
+    color:white;
+    cursor: pointer;   
+}
